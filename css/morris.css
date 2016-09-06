@@ -1,0 +1,75 @@
+.morris-hover{position:absolute;z-index:1000;}.morris-hover.morris-default-style{border-radius:10px;padding:6px;color:#666;background:rgba(255, 255, 255, 0.8);border:solid 2px rgba(230, 230, 230, 0.8);font-family:sans-serif;font-size:12px;text-align:center;}.morris-hover.morris-default-style .morris-hover-row-label{font-weight:bold;margin:0.25em 0;}
+.morris-hover.morris-default-style .morris-hover-point{white-space:nowrap;margin:0.1em 0;}
+
+	
+	
+	#footer h3 {
+		font-size:18px;
+		color:#fff;
+		text-align:left;
+	}
+	.toptitle h1 {
+		float:left;
+		margin-top:15px;
+	}
+	.toptitle img {
+
+		float:right;
+	}
+	
+	#footer h5{
+		font-size:15px;
+		color:#b99229;
+		text-align: left;
+		margin-bottom: 8px;
+		border-bottom: 1px solid #b99229;
+	}
+	
+	#footer ul li a {
+		margin-left:10px;
+		color:#fff;
+	}
+	#footer ul {
+		margin-left:20px;
+	}
+	.social img {
+		width:40px;
+		margin:2px;
+		float:left;
+	}
+	
+	@media (max-width:900px) {
+		#footer h3 {
+			font-size:15px;
+			border-bottom: 1px solid #fff;
+		}
+		#footer ul li a {
+			margin-left:10px;
+			color:#fff;
+		}
+		#footer ul {
+			margin-left:20px;
+			font-size:12px;
+		}
+
+	}	
+	
+	@media (max-width:767px) {
+	#footer ul {
+		text-align:left;
+		margin-left:50px;
+	}
+
+	#footer h3 {
+		font-size:18px;
+		text-align:center;
+	}
+	
+	#footer h5 {
+		margin-left:10px;
+	}	
+	
+	.toptitle h1 {
+		font-size:29px;
+	}
+	}
